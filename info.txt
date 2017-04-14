@@ -1,0 +1,1 @@
+1-change the database username and password in the classes folder (class.connection.php);
